@@ -5,7 +5,7 @@ Este é o repositório de vários trabalhos de LPA, realizados no âmbito da lic
 
 **LPA_W1.c**
 
-*Task
+* Task
 
 Given a plan of topics to study (which includes precedences) and Joca's willingness of shortening the study time according to the rules mentioned above, you should implement an algorithm computes the study plan per day and returns:
   the maximum number of topics that he has to study in a single day
