@@ -19,7 +19,7 @@ The first line contains three integers: the number of topics (m), the number of 
 
 For each test case, print the maximum number of topics that Jocas has to study in a single day and the number of days that he will be desperate, in a single line.
 
-**LPA_W2.c**
+### **LPA_W2.c**
 
 * Task
 
@@ -33,7 +33,7 @@ For each test case, print the shortest sequence of moves to reach the target in 
 
 Since there may be more than one shortest sequence, the program should choose the one that is lexicographically smaller (means that D1 < D2 < L1 < L2 < R1 < R2 < U1 < U2).
 
-**LPA_W3.c**
+### **LPA_W3.c**
 
 * Task
 
@@ -47,7 +47,7 @@ The first line contains the number of test cases (t) in the same file. Informati
 
 For each test case, print the largest score.
 
-**LPA_W4.c**
+### **LPA_W4.c**
 
 * Task
 
@@ -61,7 +61,7 @@ The first line of each test case describes the size of the matrix with two posit
 
 Output the largest sum of profits (which is always positive).
 
-**LPA_W5.c**
+### **LPA_W5.c**
 
 * Task
 
